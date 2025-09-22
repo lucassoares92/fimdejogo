@@ -123,6 +123,13 @@
       year: "2025",
       platform: "PS1",
     },
+    {
+      title: "X-Men Origins: Wolverine",
+      image: "Imagens/X-Men_Origins_Wolverine_capa.png",
+      completionTime: "11 horas e 27 minutos",
+      year: "2025",
+      platform: "PC",
+    },
   ];
 
   function renderizarJogos(jogosFiltrados) {
