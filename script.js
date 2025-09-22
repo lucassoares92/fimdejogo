@@ -142,7 +142,7 @@
                     <div class="cartao-jogo">
                         <img src="${game.image}" alt="${game.title}">
                         <div class="cartao-jogo-body">
-                            <h5 class="cartao-jogo-title">${game.title}</h5>
+                            <h2 class="cartao-jogo-title">${game.title}</h2>
                             <p class="cartao-jogo-text">Tempo de zeramento: ${game.completionTime}</p>
                             <p class="cartao-jogo-text">Plataforma: ${game.platform}</p>
                             <p class="cartao-jogo-text cartao-jogo-text-muted">Zerado em: ${game.year}</p>
